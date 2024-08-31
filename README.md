@@ -10,6 +10,8 @@
 
 **Dato curioso**: Además de mi pasión por los datos, tengo una formación en diseño industrial, lo cual me permite abordar problemas desde una perspectiva creativa.
 
+## [Visita mi portafolio de proyectos](https://lorenzofdz.github.io/lorenzo_portfolio/)
+
 ## Habilidades:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
