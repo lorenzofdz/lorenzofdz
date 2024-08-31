@@ -1,4 +1,6 @@
-# ¡Hola! Bienvenido a mi Perfil
+![banner](https://github.com/user-attachments/assets/ea02382f-0f82-4815-93d2-7aed6c570590)
+
+# ¡Hola! Bienvenido a mi perfil
 
 **Actualmente estoy trabajando en**: Proyectos de análisis de datos enfocados en la optimización de decisiones estratégicas mediante el uso de Python, SQL y Tableau. Me dedico a transformar datos complejos en insights accionables para impulsar el crecimiento empresarial.
 
@@ -11,18 +13,18 @@
 ## Habilidades:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-2C384A?style=for-the-badge&logo=seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/EDA-FFA500?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visualization-FF6384?style=for-the-badge&logo=datadog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistical_Analysis-9C27B0?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Preprocessing-4CAF50?style=for-the-badge&logo=datadog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Business_Analysis-00BFAE?style=for-the-badge&logo=business&logoColor=white" />
-  <img src="https://img.shields.io/badge/A/B_Testing-FB8C00?style=for-the-badge&logo=experiment&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cohort_Analysis-2E7D32?style=for-the-badge&logo=biometrics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Business_Intelligence-009688?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-4A4A4A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-3A3A3A?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-5A5A5A?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-6A6A6A?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4A4A4A?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-4A4A4A?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/EDA-7A7A7A?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visualization-5A5A5A?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistical_Analysis-4A4A4A?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Preprocessing-6A6A6A?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business_Analysis-3A3A3A?style=for-the-badge&logo=business&logoColor=white" />
+  <img src="https://img.shields.io/badge/A/B_Testing-4A4A4A?style=for-the-badge&logo=experiment&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cohort_Analysis-5A5A5A?style=for-the-badge&logo=biometrics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business_Intelligence-4A4A4A?style=for-the-badge&logo=tableau&logoColor=white" />
 </div>
