@@ -1,4 +1,4 @@
-# ¡Hola! Soy Lorenzo Fernández
+# ¡Hola! Bienvenido a mi Perfil
 
 **Actualmente estoy trabajando en**: Proyectos de análisis de datos enfocados en la optimización de decisiones estratégicas mediante el uso de Python, SQL y Tableau. Me dedico a transformar datos complejos en insights accionables para impulsar el crecimiento empresarial.
 
