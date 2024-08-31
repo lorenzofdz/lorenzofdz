@@ -26,5 +26,4 @@
   <img src="https://img.shields.io/badge/Business_Analysis-3A3A3A?style=for-the-badge&logo=business&logoColor=white" />
   <img src="https://img.shields.io/badge/A/B_Testing-4A4A4A?style=for-the-badge&logo=experiment&logoColor=white" />
   <img src="https://img.shields.io/badge/Cohort_Analysis-5A5A5A?style=for-the-badge&logo=biometrics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Business_Intelligence-4A4A4A?style=for-the-badge&logo=tableau&logoColor=white" />
 </div>
