@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/cd26d43f-14ae-4da0-b4f0-42fdc8dec3d7)
+![banner](https://github.com/user-attachments/assets/0b7a55aa-a2cc-47d3-826d-c8d4a5a2f214)
 
 # ¡Hola! Bienvenido a mi perfil
 
