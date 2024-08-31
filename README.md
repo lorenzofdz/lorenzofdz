@@ -6,4 +6,4 @@
 
 **Cómo contactarme**: Puedes enviarme un correo a [lofernandez91@gmail.com](mailto:lofernandez91@gmail.com) o conectar conmigo en [LinkedIn](https://www.linkedin.com/in/lorenzofdz).
 
-**Dato curioso**: Además de mi pasión por los datos, disfruto de la innovación y el diseño, lo cual me permite abordar problemas desde una perspectiva única y creativa.
+**Dato curioso**: Además de mi pasión por los datos, tengo una formación en diseño industrial, lo cual me permite abordar problemas desde una perspectiva creativa.
