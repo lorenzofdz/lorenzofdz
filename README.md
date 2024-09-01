@@ -8,8 +8,6 @@
 
 **Cómo contactarme**: Puedes enviarme un correo a [lofernandez91@gmail.com](mailto:lofernandez91@gmail.com) o conectar conmigo en [LinkedIn](https://www.linkedin.com/in/lorenzofdz).
 
-**Dato curioso**: Tengo una formación en diseño industrial, lo cual me permite abordar problemas desde una perspectiva creativa.
-
 **[Visita mi portafolio de proyectos](https://lorenzofdz.github.io/lorenzo_portfolio/)**
 
 ## Habilidades:
