@@ -10,7 +10,7 @@
 
 **Dato curioso**: Tengo una formación en diseño industrial, lo cual me permite abordar problemas desde una perspectiva creativa.
 
-### [Visita mi portafolio de proyectos](https://lorenzofdz.github.io/lorenzo_portfolio/)
+**[Visita mi portafolio de proyectos](https://lorenzofdz.github.io/lorenzo_portfolio/)**
 
 ## Habilidades:
 
