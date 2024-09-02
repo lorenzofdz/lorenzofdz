@@ -10,7 +10,7 @@
 
 **[Visita mi portafolio de proyectos](https://lorenzofdz.github.io/lorenzo_portfolio/)**
 
-## Habilidades:
+## Lenguajes y herramientas principales:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Python-4A4A4A?style=for-the-badge&logo=python&logoColor=white" />
