@@ -1,5 +1,3 @@
-![banner](https://github.com/user-attachments/assets/0b7a55aa-a2cc-47d3-826d-c8d4a5a2f214)
-
 # ¡Hola! Bienvenido a mi perfil
 
 **Actualmente estoy trabajando en**: Proyectos de análisis de datos enfocados en la optimización de decisiones estratégicas mediante el uso de Python, SQL y Tableau. Me dedico a transformar datos complejos en insights accionables para impulsar el crecimiento empresarial.
