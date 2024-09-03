@@ -6,7 +6,7 @@
 
 **Cómo contactarme**: Puedes enviarme un correo a [lofernandez91@gmail.com](mailto:lofernandez91@gmail.com) o conectar conmigo en [LinkedIn](https://www.linkedin.com/in/lorenzofdz).
 
-**[Visita mi portafolio de proyectos](https://lorenzofdz.github.io/lorenzo_portfolio/)**
+**[Visita mi portafolio de proyectos](https://lorenzofdz.github.io/lorenzo-portfolio/)**
 
 ## Lenguajes y herramientas principales:
 
